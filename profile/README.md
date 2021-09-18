@@ -4,5 +4,10 @@ CoderDojoは、日本全国234カ所以上で開催されている7～17歳を�
 
 世界中にあるCoderDojo公式法人の１つ「[CoderDojo Japan](https://coderdojo.jp/)」では、現在22社以上のパートナー法人と提携・協力し、全国のCoderDojo活動を継続的にサポートしています。CoderDojoコミュニティ向けの支援や連携をご検討されている組織・法人などがありましたら、下記ページからお気軽にご連絡ください。
 
-:handshake: パートナーシップのご案内 - CoderDojo Japan <br>
+パートナーシップのご案内 - CoderDojo Japan <br>
 https://coderdojo.jp/partnership
+
+### :handshake: 提携事例
+- [プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 ](https://prtimes.jp/main/html/rd/p/000000003.000038935.html)
+- [全国の CoderDojo へ、Google より Scratch 書籍と AI プログラミング冊子を 1080 部寄贈](https://news.coderdojo.jp/2021/06/30/1080-presents-from-google-to-coderdojo/)
+- [子ども向けプログラミング道場を推進する一般社団法人 CoderDojo Japanをさくらインターネットが支援、「さくらのクラウド」を無料提供](https://www.sakura.ad.jp/information/pressreleases/2017/07/20/90191/)
