@@ -8,6 +8,7 @@ CoderDojo　は、日本全国200カ所以上で開催されている7～17歳�
 https://coderdojo.jp/partnership
 
 ### :handshake: これまでの支援・連携事例
+
 - [プログラミングでポケモンを動かすワークショップが、全国の CoderDojo で実施可能に。 ](https://prtimes.jp/main/html/rd/p/000000003.000038935.html)
 - [ポケットサイズの教育用コンピューター「micro:bit」、CoderDojo に 1500 台寄贈](https://prtimes.jp/main/html/rd/p/000000007.000038935.html)
 - [Minecraft カップ全国大会と連携し、CoderDojo 向け教育版マインクラフトのライセンス貸し出しプログラムを開始](https://news.coderdojo.jp/2022/05/31/partnership-with-minecraftcup/)
