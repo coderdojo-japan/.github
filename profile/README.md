@@ -14,5 +14,6 @@ https://coderdojo.jp/partnership
 - [Minecraft カップ全国大会と連携し、CoderDojo 向け教育版マインクラフトのライセンス貸し出しプログラムを開始](https://news.coderdojo.jp/2022/05/31/partnership-with-minecraftcup/)
 - [発売3周年のロボットトイ「toio」、CoderDojo 向けレンタルプログラム開始](https://prtimes.jp/main/html/rd/p/000000005.000038935.html)
 - [全国の CoderDojo へ、Google より Scratch 書籍と AI プログラミング冊子を 1080 部寄贈](https://news.coderdojo.jp/2021/06/30/1080-presents-from-google-to-coderdojo/)
+- [Geolonia の支援を得て、全国の CoderDojo が地図から探せる「DojoMap」を開発](https://prtimes.jp/main/html/rd/p/000000008.000038935.html)
 - [日本青年会議所から CoderDojo へ、20台のロボットプログラミングキット寄贈](https://news.coderdojo.jp/2021/07/29/robot-programming-kits-from-jci/)
 - [子ども向けプログラミング道場を推進する一般社団法人 CoderDojo Japan をさくらインターネットが支援、「さくらのクラウド」を無料提供](https://www.sakura.ad.jp/information/pressreleases/2017/07/20/90191/)
