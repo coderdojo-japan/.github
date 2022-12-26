@@ -1,6 +1,6 @@
 [![CoderDojo Japan Association](https://i.gyazo.com/747a6a1aaa2330439546a6a20914a0d8.png)](https://coderdojo.jp/)
 
-CoderDojoは、日本全国215カ所以上で開催されている7～17歳を主な対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では112カ国・2,200以上の道場があります。日本でも2012年から活動が始まり、[毎年1,000回以上のイベントが開催](https://coderdojo.jp/events)され、各イベントはプログラマーやデザイナー、学生や教員など、多様な方々の協力によって支えられています。
+CoderDojoは、日本全国215カ所以上で開催されている7～17歳を主な対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000以上の道場があります。日本でも2012年から活動が始まり、[毎年1,000回以上のイベントが開催](https://coderdojo.jp/events)され、各イベントはプログラマーやデザイナー、学生や教員など、多様な方々の協力によって支えられています。
 
 世界中にある[CoderDojo公式法人](https://coderdojo.com/regional-bodies/)の１つ「[一般社団法人CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)」では、[25社以上のパートナー法人](https://coderdojo.jp/#partners)と連携し、全国のCoderDojoの活動を継続的にサポートしています。CoderDojoコミュニティ向け支援や連携をご検討されている組織・法人などありましたら、下記ページからお気軽にご連絡ください。
 
