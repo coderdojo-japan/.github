@@ -18,3 +18,5 @@ https://coderdojo.jp/partnership
 - [日本青年会議所から CoderDojo へ、20台のロボットプログラミングキット寄贈](https://news.coderdojo.jp/2021/07/29/robot-programming-kits-from-jci/)
 - [GitHub for Nonprofit プログラムの対象になりました - CoderDojo Japan](https://news.coderdojo.jp/2019/08/29/github-for-nonprofit/)
 - [子ども向けプログラミング道場を推進する一般社団法人 CoderDojo Japan をさくらインターネットが支援、「さくらのクラウド」を無料提供](https://www.sakura.ad.jp/information/pressreleases/2017/07/20/90191/)
+
+最近のニュースはコチラから! → [https://news.coderdojo.jp/](https://news.coderdojo.jp/)
