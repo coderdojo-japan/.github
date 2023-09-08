@@ -17,6 +17,7 @@ https://coderdojo.jp/partnership
 - [Geolonia の支援を得て、全国の CoderDojo が地図から探せる「DojoMap」を開発](https://prtimes.jp/main/html/rd/p/000000008.000038935.html)
 - [日本青年会議所から CoderDojo へ、20台のロボットプログラミングキット寄贈](https://news.coderdojo.jp/2021/07/29/robot-programming-kits-from-jci/)
 - [GitHub for Nonprofit プログラムの対象になりました - CoderDojo Japan](https://news.coderdojo.jp/2019/08/29/github-for-nonprofit/)
+- [TFabWorks と連携し、全国の CoderDojo を対象とした Scratch 用コントローラー「Takoratch」の無償レンタルプログラムをスタート](https://prtimes.jp/main/html/rd/p/000000011.000038935.html)
 - [子ども向けプログラミング道場を推進する一般社団法人 CoderDojo Japan をさくらインターネットが支援、「さくらのクラウド」を無料提供](https://www.sakura.ad.jp/information/pressreleases/2017/07/20/90191/)
 
 最近のニュースはコチラから! → [https://news.coderdojo.jp/](https://news.coderdojo.jp/)
