@@ -1,5 +1,10 @@
 # .github
-Profile page for CoderDojo Japan Association. 
+This repository defines default settings for each repo in CoderDojo Japan Association ([@coderdojo-japan](https://github.com/coderdojo-japan).
 
-- [Go to CoderDojo Japan's top page](https://github.com/coderdojo-japan)
-- [Go to CoderDojo Japan's profile page](https://github.com/coderdojo-japan/.github/tree/main/profile)
+本リポジトリでは一般社団法人 CoderDojo Japan ([@coderdojo-japan](https://github.com/coderdojo-japan) の GitHub アカウント内にある各種リポジトリのデフォルト値などが設定されています。
+
+- CODE_OF_CONDUCT: https://github.com/coderdojo-japan/.github/blob/main/CODE_OF_CONDUCT.md
+- FUNDING: https://github.com/coderdojo-japan/.github/blob/main/FUNDING.yml
+- SECURITY: https://github.com/coderdojo-japan/.github/blob/main/SECURITY.md
+
+Copyright &copy; CoderDojo Japan Association ([@coderdojo-japan](https://github.com/coderdojo-japan)).
