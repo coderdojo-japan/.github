@@ -21,5 +21,5 @@ https://coderdojo.jp/partnership
 - [TFabWorks と連携し、全国の CoderDojo を対象とした Scratch 用コントローラー「Takoratch」の無償レンタル開始](https://prtimes.jp/main/html/rd/p/000000011.000038935.html)
 - [子ども向けプログラミング道場を推進する一般社団法人 CoderDojo Japan をさくらインターネットが支援、「さくらのクラウド」を無料提供](https://www.sakura.ad.jp/information/pressreleases/2017/07/20/90191/)
 
-最近のニュースはコチラから！ → [https://news.coderdojo.jp/](https://news.coderdojo.jp/)
+最近のニュースはコチラから！ → [https://news.coderdojo.jp/](https://news.coderdojo.jp/)   
 ティザー用テンプレートを見る → [https://github.com/coderdojo-japan/teaser-template.coderdojo.jp](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp)
