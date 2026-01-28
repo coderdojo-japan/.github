@@ -5,8 +5,8 @@
 This repository defines default settings for [GitHub repositories](https://github.com/coderdojo-japan) in CoderDojo Japan Association ([@coderdojo-japan](https://github.com/coderdojo-japan)).
 
 
-- CONDUCT: https://github.com/coderdojo-japan/.github/blob/main/CODE_OF_CONDUCT.md
-- FUNDING: https://github.com/coderdojo-japan/.github/blob/main/FUNDING.yml
+- GUIDELINE: https://github.com/coderdojo-japan/.github/blob/main/CODE_OF_CONDUCT.md
 - SECURITY: https://github.com/coderdojo-japan/.github/blob/main/SECURITY.md
+- FUNDING: https://github.com/coderdojo-japan/.github/blob/main/FUNDING.yml
 
 Copyright &copy; [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan) ([@coderdojo-japan](https://github.com/coderdojo-japan)).
